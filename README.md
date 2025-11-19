@@ -1,44 +1,70 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hola,+soy+Kory+👋;Backend+Python+Developer+🐍;Explorando+Data+Science+📊;Amante+del+Arte+y+las+Finanzas+🎨" alt="Typing SVG" />
 
-  <p>
-    <a href="mailto:wendrykoralis@gmail.com">
-      <img src="https://img.shields.io/badge/Email-wendrykoralis%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/wendry-koralis-poueriet-martinez/">
-      <img src="https://img.shields.io/badge/LinkedIn-Wendry%20Koralis-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
-    </a>
-    </p>
+<table>
+<tr>
+<td width="60%" valign="center">
+
+<h1>Hola, soy Kory <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&vCenter=true&width=435&lines=Jr.+Data+Scientist+📊;Python+Developer+🐍;Automatizadora+de+Procesos+⚙️;Fanática+de+los+Deportes+🏀" alt="Typing SVG" />
+
+<br><br>
+
+Soy una <s>aguacate programador</s> desarrolladora  buscando patrones en el caos de los datos. 🥑➡️👩🏽‍💻
+
+<br><br>
+
+Actualmente me enfoco en:
+<br>
+🔭 **Ciencia de Datos** (limpiando, analizando y visualizando).
+<br>
+🐍 **Python Backend** y scripts de **Automatización**.
+<br>
+🏃🏽‍♀️ Cuando no estoy programando, estoy haciendo **Deporte**.
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/wendry-koralis-poueriet-martinez/">
+  <img src="https://img.shields.io/badge/LinkedIn-Wendry_Koralis-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:wendrykoralis@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</td>
+
+<td width="40%" valign="center">
+
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J6bXZ5M3Z6bXZ5M3Z6bXZ5M3Z6bXZ5M3Z6bXZ5M3Z6bXZ5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8K62iTDkzGX6/giphy.gif" width="100%" alt="coding gif" />
+</div>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-### 👩‍💻 About Me
-
-Soy una desarrolladora apasionada que encuentra el equilibrio entre la lógica del backend y la creatividad del arte. Actualmente, estoy expandiendo mis horizontes hacia la Ciencia de Datos para entender mejor el mundo a través de los números.
-
-- 🔭 **Trabajo actual:** Creando soluciones robustas como **Backend Python Developer**.
-- 🌱 **Aprendiendo:** Profundizando en **Data Science**, Machine Learning y análisis de datos.
-- 🤝 **Colaboración:** Busco aportar mi conocimiento en proyectos Open Source y equipos dinámicos.
-- ⚡ **Fun fact:** Cuando no estoy programando, me encontrarás leyendo sobre **Ciencia Política**, analizando **Finanzas** o apreciando el **Arte**.
-
----
-
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,git,github,vscode,mysql,postgres,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,bash,selenium,mysql,postgres,docker&perline=10" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,matplotlib,pytorch,jupyter,grafana" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Mis Estadísticas (Sin Grados 😉)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koryroot&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koryroot&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=koryroot&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true" height="160" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koryroot&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
+
 </div>
 
 <div align="center">
@@ -48,9 +74,5 @@ Soy una desarrolladora apasionada que encuentra el equilibrio entre la lógica d
 ---
 
 <div align="center">
-  
-  <code>while(analyzing_politics) { invest_wisely(); code_backend(); }</code>
-  
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=koryroot&style=flat-square&color=blue" alt="visitas" />
+  <code>while(energy > 0) { code(); do_sports(); automate_boring_stuff(); }</code>
 </div>
