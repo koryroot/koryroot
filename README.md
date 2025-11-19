@@ -12,7 +12,7 @@
 
 I am a **Jr. Data Scientist** and **Python Developer** driven by curiosity and logic. My journey involves turning raw data into meaningful insights and building robust backend systems that make life easier through automation.
 
-I define myself as a ~~programming avocado~~ human developer constantly evolving. 🥑➡️👩🏽‍💻
+I define myself as a ~~programming avocado~~  developer constantly evolving. 🥑➡️👩🏽‍💻
 
 **What drives me?**
 * 💻 **Tech:** I love crafting clean code in **Python**, exploring the depths of **Data Science**, and automating boring tasks so we can focus on what matters.
