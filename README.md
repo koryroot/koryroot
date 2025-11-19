@@ -6,7 +6,7 @@
 
 <h1>Hola, soy Kory <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&vCenter=true&width=435&lines=Jr.+Data+Scientist+📊;Python+Developer+🐍;Automatizadora+de+Procesos+⚙️;Fanática+de+los+Deportes+🏀" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.herokuapp.com?](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xvNDFuODdwY285NjRpN3RseGVzMDl4YTg1MW5teHk1NTVreHp6eSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/fUQ4rhUZJYiQsas6WD/giphy.gif)font=Fira+Code&pause=1000&color=20C20E&background=00000000&vCenter=true&width=435&lines=Jr.+Data+Scientist+📊;Python+Developer+🐍;Automatizadora+de+Procesos+⚙️;Fanática+de+los+Deportes+🏀" alt="Typing SVG" />
 
 <br><br>
 
